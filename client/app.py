@@ -107,4 +107,4 @@ def UserPage():
         danger_level='Critically Dangerous'
     return danger_level
 if(__name__=='__main__'):
-    app.run()
+    app.run(host='travel-safe.vercel.app')
