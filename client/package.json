@@ -1,7 +1,7 @@
 {
   "name": "client",
   "private": true,
-  "proxy":"https://travel-safe-lwlyu1ue5-barnilsarma.vercel.app/",
+  "proxy":"https://travel-safe.vercel.app/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
