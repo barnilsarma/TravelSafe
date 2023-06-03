@@ -10,7 +10,7 @@ function RegForm(){
     return(
         <div id="reg-cont">
             <h1>Register</h1>
-            <form method='POST' action='https://travel-safe.vercel.app/Reg'>
+            <form method='POST' action='https://travel-safe-lwlyu1ue5-barnilsarma.vercel.app/Reg'>
                 <div className='part-1'>
                     <div className='lbls'>
                         <label>Enter Your Police Station:</label>
